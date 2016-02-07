@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  meaning: MyString
+humour:
+  title: humour
+  meaning: amusing
 
-two:
-  title: MyString
-  meaning: MyString
+affect:
+  title: affect
+  meaning: trouble
